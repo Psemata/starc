@@ -1,20 +1,14 @@
 # Starc
 
 ## Description
+Starc is a mobile application that allows users to observe various stars and constellations above their heads.
+Users can navigate the celestial landscape either by utilizing the gyroscope for a dynamic experience or by using their fingers to explore specific stars.
 
-Starc est une application mobile, qui nous permet de voir les différentes étoiles et constellations au dessus de notre tête.
+## Bug List
+There are currently no known bugs. However, some objectives have not been fulfilled yet and are considered good areas for improvement.
 
-Il est aussi possible de se déplacer avec le gyroscope ou à l'aide de nos doigts pour d'autres étoiles.
+## Installation / Deployment
+Install the application via Android Studio on a physical phone.
 
-## Liste des bugs
-Il n'existe aucun bugs connus actuellement.
-Cependant, des objectifs n'ont pas encore été remplis et sont considérés comme de bonnes améliorations.
-
-## Installation / Déploiement
-Installer l'application via Android Studio sur un téléphone physique
-
-## Crédits
-
-Ce projet a été réalisé par Diogo Lopes Da Silva, Valentino Izzo, Bruno Costa et Loïc Frossard dans le cours de développement mobile.
-
-
+## Credits
+This project was carried out by Diogo Lopes Da Silva, Valentino Izzo, Bruno Costa, and Loïc Frossard in the mobile development course.

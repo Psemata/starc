@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Starc</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+</resources>
